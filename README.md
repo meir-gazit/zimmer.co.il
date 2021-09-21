@@ -1,2 +1,2 @@
 # zimmer.co.il
-z-place - a aplace to share idees
+z-place - a place to share idees
